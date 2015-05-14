@@ -1,3 +1,6 @@
 == Rails 4 app with AdminLTE
 
 It's a AdminLTE skeleton
+
+Rails v4.2.1
+AdminLTE v2.1.1
