@@ -4,3 +4,5 @@ It's a AdminLTE skeleton
 
 Rails v4.2.1
 AdminLTE v2.1.1
+
+Usar: https://github.com/chukcha-wtf/adminlte-generators
